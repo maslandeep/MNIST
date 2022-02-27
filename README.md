@@ -7,5 +7,5 @@ How to run:
 3) Click the appeared `.ipynb` link.
 
 What is there:
-1) Three variatons of convolutional neural network, i.e., `bigger`, `smaller`, and `medium` sized ones, are trained; the `loss` and `accuracy` plots are displayed.
+1) Three variatons of convolutional neural network, i.e., `bigger`, `smaller`, and `medium` sized ones, are trained/analyzed; and the `loss`/`accuracy` plots are visualized.
 2) Finally, some of the `weights` of the first layer of the medium sized model are `visualized`.
